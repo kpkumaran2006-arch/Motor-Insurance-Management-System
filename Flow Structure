@@ -1,0 +1,23 @@
+Motor-Insurance-Management-System/
+│
+├── README.md
+├── database.sql
+├── create_tables.sql
+├── insert_data.sql
+├── views.sql
+├── stored_procedures.sql
+├── functions.sql
+├── triggers.sql
+├── transactions.sql
+├── cte_queries.sql
+├── window_functions.sql
+├── indexes.sql
+├── reports.sql
+├── screenshots/
+│   ├── database_creation.png
+│   ├── tables.png
+│   ├── joins_output.png
+│   ├── procedures.png
+│   ├── triggers.png
+│   └── reports.png
+└── Project_Report.docx
