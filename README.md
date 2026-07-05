@@ -323,9 +323,9 @@ Add screenshots such as:
 
 👨‍💻 Author
 
-**Kumaran**
+Kumaran P 
 
-Database Management System (DBMS) Project
+MYSQL Project
 
 Motor Insurance Management System using MySQL
 
